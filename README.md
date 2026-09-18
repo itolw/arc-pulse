@@ -70,6 +70,4 @@ git push -u origin main
 
 ## Roadmap
 
-This started as a companion to [arc-usdc-wallet](https://github.com/helleneburatino-web3/arc-usdc-wallet) —
-next steps: highlight large ("whale") transfers distinctly, add a
-mempool/pending-tx view, and surface basic TPS.
+Next steps: highlight large ("whale") transfers distinctly, add a mempool/pending-tx view, and surface basic TPS.
