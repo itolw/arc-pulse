@@ -3,7 +3,7 @@
 
 export const ARC_TESTNET = {
   chainId: 5042002,
-  rpcUrl: 'https://rpc.testnet.arc.network',
+  rpcUrl: 'https://rpc.drpc.testnet.arc.network',
   explorerUrl: 'https://testnet.arcscan.app',
 }
 
