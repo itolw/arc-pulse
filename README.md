@@ -5,7 +5,7 @@ A live vitals monitor for Arc Testnet - a real-time waveform of the gas price
 feed of on-chain USDC transfers. No wallet connection required - it's entirely
 read-only, polling the public RPC directly.
 
-**Live demo:** _add your Vercel URL here after deploying_
+**Live demo:** https://arc-pulse-by-itolw.vercel.app/
 
 ## Why this exists
 
